@@ -1,6 +1,10 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sombody101&theme=radical&hide=java)](https://github.com/anuraghazra/github-readme-stats)
 [![Sombody101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sombody101&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![My Skills](https://skillicons.dev/icons?i=cs,bash,dotnet,vscode,visualstudio,unity,js,html,CSS,LinkedIn,lua,md&theme=dark&perline=6)](https://skillicons.dev)
+
+
+<div align="center"> 
+</div>
 
 <hr>
 
