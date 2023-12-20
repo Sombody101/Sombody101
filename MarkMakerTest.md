@@ -1,5 +1,16 @@
 # Markdown Features Showcase
 
+## Performance Panel [Someone random, but important]
+[![Sombody's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickstaa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Badges
+[![My Skills](https://skillicons.dev/icons?i=cs,bash,dotnet,vscode,visualstudio,unity,js,html,CSS,LinkedIn,lua,md,java,c&theme=dark&perline=6)](https://skillicons.dev)
+
+### Small badges
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+
 ## Headers
 
 # H1
