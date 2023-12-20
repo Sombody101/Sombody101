@@ -59,8 +59,8 @@ def hello_world():
 
 | Header 1 | Header 2 |
 |----------|----------|
-| Cell 1   | Cell 2   |
-| Cell 3   | Cell 4   |
+| Cell 1   | -Cell 2-   |
+| [Cell 3](https://google.com)   | *Cell 4*   |
 
 ## Task Lists
 
