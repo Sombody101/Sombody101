@@ -30,7 +30,7 @@ Actively involved in **SkillsUSA** to:
 
 ## Ongoing Learning
 
-Currently pursuing **CompTIA Security+** and **CompTIA Networking+** certifications to enhance technical proficiency.
+Currently pursuing **CompTIA Security+** and **CompTIA Networking+** certifications to add to my portfolio.
 
 ## Professional Growth
 
