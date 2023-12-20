@@ -1,8 +1,7 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sombody101&theme=radical&hide=java)](https://github.com/anuraghazra/github-readme-stats)
-[![Sombody101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sombody101&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Sombody101&show_icons=true&include_all_commits=true&theme=radical" alt="Sombody101's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sombody101&theme=radical&hide=java&layout=compact" alt="Sombody101's top languages stats" /></a>
+| ------------- | ------------- |
 
 [![My Skills](https://skillicons.dev/icons?i=cs,bash,dotnet,vscode,visualstudio,unity,js,html,CSS,LinkedIn,lua,md&theme=dark&perline=6)](https://skillicons.dev)
-
 
 <hr>
 
