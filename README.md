@@ -1,6 +1,9 @@
+[![Sombody101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sombody101&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Skills](https://skillicons.dev/icons?i=cs,bash,dotnet,vscode,visualstudio,unity,js,html,CSS,LinkedIn,lua,md&theme=dark&perline=6)](https://skillicons.dev)
+
 Experienced **C# Developer** with a strong focus on IT solutions. I bring four years of expertise in **.NET Core**, complemented by a track record of success in **SkillsUSA**. I proudly secured victory at the Utah state level and achieved an impressive 11th place nationally in Information Technology Services.
 
-[![Sombody101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sombody101&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Current Focus
 
@@ -33,4 +36,3 @@ Currently pursuing **CompTIA Security+** and **CompTIA Networking+** certificati
 
 Committed to IT excellence, backed by a strong foundation in C# development. Proven success in SkillsUSA competitions at both state and national levels.
 
-[![My Skills](https://skillicons.dev/icons?i=cs,bash,dotnet,vscode,visualstudio,unity,js,html,CSS,LinkedIn,lua,md&theme=dark&perline=6)](https://skillicons.dev)
