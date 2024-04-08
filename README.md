@@ -4,13 +4,13 @@
             <!-- User Rating -->
             <th>
                 <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sombody101&amp;theme=shadow_blue&amp;show_icons=true&amp" alt="Sombody101's github stats">
+                    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sombody101&amp;theme=shadow_blue&amp;show_icons=true&amp" alt="Sombody101's github stats">
                 </a>
             </th>
             <!-- Language Usage -->
             <th>
                 <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sombody101&amp;theme=shadow_blue&amp;hide=java&amp;layout=compact" alt="Sombody101's top languages stats">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sombody101&amp;theme=shadow_blue&amp;hide=java&amp;layout=compact" alt="Sombody101's top languages stats">
                 </a>
             </th>
         </tr>
@@ -18,7 +18,7 @@
     <tbody></tbody>
 </table>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,bash,dotnet,vscode,visualstudio,unity,js,html,CSS,LinkedIn,lua,md&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,bash,dotnet,vscode,visualstudio,unity,js,html,CSS,LinkedIn,lua,go,md&theme=dark&perline=7)](https://skillicons.dev)
 
 <hr>
 
