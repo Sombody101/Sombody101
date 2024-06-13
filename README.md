@@ -4,13 +4,13 @@
             <!-- User Rating -->
             <th>
                 <a href="https://github.com/anuraghazra/github-readme-stats">
-                    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sombody101&amp;theme=shadow_blue&amp;show_icons=true&amp" alt="Sombody101's github stats">
+                    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sombody101&theme=algolia&show_icons=true" alt="Sombody101's github stats">
                 </a>
             </th>
             <!-- Language Usage -->
             <th>
                 <a href="https://github.com/anuraghazra/github-readme-stats">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sombody101&amp;theme=shadow_blue&amp;hide=java&amp;layout=compact" alt="Sombody101's top languages stats">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sombody101&theme=algolia&hide=java&layout=compact&langs_count=20" alt="Sombody101's top languages stats">
                 </a>
             </th>
         </tr>
