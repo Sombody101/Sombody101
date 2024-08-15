@@ -20,6 +20,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,bash,dotnet,vscode,visualstudio,unity,js,html,CSS,LinkedIn,lua,go,md&theme=dark&perline=7)](https://skillicons.dev)
 
+![](https://komarev.com/ghpvc/?username=Sombody101&label=Views)
+
 <hr>
 
 Experienced **C# Developer** with a strong focus on IT solutions. I bring four years of expertise in **.NET Core**, complemented by a track record of success in **SkillsUSA**. I proudly secured victory at the Utah state level and achieved an impressive 11th place nationally in Information Technology Services.
