@@ -18,7 +18,7 @@
     <tbody></tbody>
 </table>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,bash,dotnet,vscode,visualstudio,unity,js,html,CSS,LinkedIn,lua,go,md&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,bash,dotnet,vscode,visualstudio,unity,js,html,CSS,lua,md&theme=dark&perline=7)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=Sombody101&label=Views)
 
