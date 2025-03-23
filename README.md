@@ -26,3 +26,4 @@
 
 **C# Developer** with a love for Information Technology Services.
 I have almost five years of experience in .Net Core, Bash, and various other languages, as well as a strong hate for Python.
+If I need a lightweight interpreted language, I default to Bash and take Lua as a close second.
