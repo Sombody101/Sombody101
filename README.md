@@ -24,5 +24,5 @@
 
 <hr>
 
-**C# Developer** with a strong focus on IT solutions. I bring four years of expertise in **.NET Core**, complemented by a track record of success in **SkillsUSA**. I proudly secured victory at the Utah state level and achieved an impressive 11th place nationally in Information Technology Services.
-
+**C# Developer** with a love for Information Technology Services.
+I have almost five years of experience in .Net Core, Bash, and various other languages, as well as a strong hate for Python.
